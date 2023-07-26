@@ -29,14 +29,22 @@
  - https://embibe-delivery.atlassian.net/browse/MYJIO-750
  - splash screen for Super Bot Dev Done
 
-(Fri, 25 Jul 2023)
+
+(Sat, 22 Jul 2023) (Sun, 23 Jul 2023) - Weekend
+
+
+(Mon, 21 Jul 2023)
+
+ - missed
+
+(Tue, 25 Jul 2023)
 
  - https://embibe-delivery.atlassian.net/browse/JFRW-21924
  - https://embibe-delivery.atlassian.net/browse/MYJIO-761
  - https://embibe-delivery.atlassian.net/browse/MYJIO-750
  - splash screen for Super Bot Dev Done
 
-(Fri, 25 Jul 2023)
+(Wed, 26 Jul 2023)
 
  - https://embibe-delivery.atlassian.net/browse/MYJIO-792 Deeplink for MY_JIO
  - https://embibe-delivery.atlassian.net/browse/MYJIO-750
