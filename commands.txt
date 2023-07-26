@@ -1,0 +1,19 @@
+. ~/.zshrc
+vim ~/.zshrc
+type nginx
+cp /opt/homebrew/etc/nginx/servers/001-development.embibe-ui.embibe.com.conf /opt/homebrew/etc/nginx/servers/002-development.embibe.com.conf
+vim /opt/homebrew/etc/nginx/servers/001-development.embibe.com.conf
+vim /opt/homebrew/etc/nginx/servers/002-development.embibe.com.conf
+less /opt/homebrew/etc/nginx/servers/002-development.embibe.com.conf
+less .env
+vim .env
+ls -la
+sudo nginx -s stop && sudo nginx
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"'
+
+
+
+for reconcile branch issue while running git pull
+=> git pull -r
