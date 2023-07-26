@@ -1,0 +1,42 @@
+(Tue, 18 Jul 2023)
+
+- event integration
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-741
+   - event integration for discovery done
+   - event integration for leran bot and practice bot done
+   - event integration for doubt bot pending
+
+(Wed, 19 Jul 2023)
+
+- event integration
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-741 dev done for staging
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-754
+ - add goal selection button for Super Bot Dev Done
+
+
+(Thurs, 20 Jul 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-745
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-755
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-758
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-759
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-760 
+
+
+(Fri, 21 Jul 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-761
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-750
+ - splash screen for Super Bot Dev Done
+
+(Fri, 25 Jul 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/JFRW-21924
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-761
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-750
+ - splash screen for Super Bot Dev Done
+
+(Fri, 25 Jul 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-792 Deeplink for MY_JIO
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-750
