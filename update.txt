@@ -47,4 +47,5 @@
 (Wed, 26 Jul 2023)
 
  - https://embibe-delivery.atlassian.net/browse/MYJIO-792 Deeplink for MY_JIO
- - https://embibe-delivery.atlassian.net/browse/MYJIO-750
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-750 Splash Screen Issue fix
+ - Load time improvement (4s Slow 3G)
