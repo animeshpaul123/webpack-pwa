@@ -49,3 +49,37 @@
  - https://embibe-delivery.atlassian.net/browse/MYJIO-792 Deeplink for MY_JIO
  - https://embibe-delivery.atlassian.net/browse/MYJIO-750 Splash Screen Issue fix
  - Load time improvement (4s Slow 3G)
+
+(Wed, 27 Jul 2023)
+ - Fixing events not appearing dataslayer for myjio superbot
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-813 New Question Type
+    IN PROGRESS
+ - Create new question type and design changes for Questions
+
+
+(Fri, 28 Jul 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-757
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-813 New Question Type
+    IN PROGRESS
+ - Create new question type and design changes for Questions
+
+
+(Sat, 29 Jul 2023) - (Sun, 30 Jul 2023) Weekend
+
+
+(Mon, 31 Jul 2023) - Sick Leave
+
+
+(Tue, 01 Aug 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-757
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-813 New Question Type
+    IN PROGRESS
+
+
+(Wed, 02 Aug 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-757
+ - https://embibe-delivery.atlassian.net/browse/JFRW-21499?focusedCommentId=2368194
+ - fix landing footer issues

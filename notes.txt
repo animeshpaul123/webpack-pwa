@@ -1,0 +1,44 @@
+    addToChat([
+        {
+            user,
+            type: "text",
+            data: {
+                text: btnData.text,
+            },
+            chatId: getChatId(),
+        },
+    ])
+
+    // adding user message to chat
+    addToChat([
+        cloneMessage({
+            type: "text",
+            data: {
+                text: "View Solution",
+            },
+            user,
+            chatId: getChatId(),
+        })
+    ])
+
+
+
+    // triggering api call
+    replyToChat({
+        eventId: event_id,
+        input: btnData.id,
+        moduleId: module_id,
+        ...(btnData.paginated
+            ? {
+                page_number: btnData.next_page_number,
+                page_size: btnData.page_size,
+            }
+            : {}),
+        navigate,
+    })
+
+
+
+    dispatch(updateChat({
+         ...newChat, data: newData, type: "text" 
+    }))
