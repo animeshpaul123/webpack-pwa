@@ -80,6 +80,160 @@
 
 (Wed, 02 Aug 2023)
 
- - https://embibe-delivery.atlassian.net/browse/MYJIO-757
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-813
  - https://embibe-delivery.atlassian.net/browse/JFRW-21499?focusedCommentId=2368194
  - fix landing footer issues
+
+
+ (Thurs, 03 Aug 2023)
+  - BOB and Myjio bot issues fix:
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-821 Dev Done not deployed
+  - https://embibe-delivery.atlassian.net/browse/BOB-201 Dev Done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-797 Done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-786 Dev Done
+  - https://embibe-delivery.atlassian.net/browse/BOB-175
+
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-784 Dev Done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-785 Dev Done
+
+  - https://embibe-delivery.atlassian.net/browse/BOB-200 
+  - BOB-200 handeled from frontend side and now it has to be implemente from backend side.
+  - https://embibe-delivery.atlassian.net/browse/BOB-184 dev done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-822 dev done not deployed
+
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-820 dev done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-819 dev done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-818 dev done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-814 dev done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-810 dev done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-809 dev done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-808 dev done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-805 dev done not deployed
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-803 dev done not deployed
+
+(Fri, 04 Aug 2023)
+  - BOB and Myjio bot issues fix:
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-821 Dev Done
+  - https://embibe-delivery.atlassian.net/browse/BOB-201 Dev Done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-822 dev done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-820 dev done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-819 dev done
+  
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-814 dev done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-810 dev done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-803 dev done
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-805 dev done
+
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-822 to do
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-818 dev done
+
+
+(05 Aug - 06 Aug 2023) Weekend
+
+
+(Mon, 07 Aug 2023)
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-816
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-809
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-806
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-803
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-815
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-780
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-801
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-789 need to discuss with Hasmukh
+
+
+(Tue, 08 Aug 2023)
+ - https://embibe-delivery.atlassian.net/browse/BOB-195 SUB Questions design
+ - https://embibe-delivery.atlassian.net/browse/BOB-199
+ - https://embibe-delivery.atlassian.net/browse/BOB-190
+ - https://embibe-delivery.atlassian.net/browse/BOB-162
+ - https://embibe-delivery.atlassian.net/browse/BOB-154
+ - https://embibe-delivery.atlassian.net/browse/BOB-146
+ - https://embibe-delivery.atlassian.net/browse/BOB-145
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-822
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-816
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-801
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-780
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-777
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-775
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-771
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-774
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-766
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-769
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-782
+
+
+(Wed, 09 Aug 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-758
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-823
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-789
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-764
+
+
+(Thurs, 10 Aug 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/BOB-91
+ - https://embibe-delivery.atlassian.net/browse/BOB-82
+
+
+(Fri, 11 Aug 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-823
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-802?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-776?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+
+
+(Sat, 12 Aug 2023) - (Sun, 13 Aug 2023) - Weekend
+
+ 
+(Mon, 14 Aug 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-834?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-770?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-787?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-786?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-777?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-789?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+
+
+(Tue, 14 Aug 2023) - Holyday
+
+ (Wed, 15 Aug 2023) - Sick Leave
+
+(Thurs, 16 Aug 2023),  (Fri, 17 Aug 2023) - updates to be added
+
+
+(Sat, 18 Aug 2023),  (Sun, 19 Aug 2023) - Weekend
+
+(Mon, 21 Aug 2023)
+
+  - https://embibe-delivery.atlassian.net/browse/BOB-56
+  - https://embibe-delivery.atlassian.net/browse/BOB-72
+  - https://embibe-delivery.atlassian.net/browse/BOB-73
+  - https://embibe-delivery.atlassian.net/browse/BOB-87 deferred
+
+(Tue, 22 Aug 2023)
+
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-855
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-851
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-850
+
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-849 need to discuss with Abhishek Tiwari
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-847
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-846
+
+
+(Wed, 23 Aug 2023),  (Thurs, 24 Aug 2023), (Fri, 25 Aug 2023)
+
+  - Question types implementation
+  - https://embibe-delivery.atlassian.net/browse/BOB-231 [EPIC]
+
+  (Sat, 26 Aug 2023),  (Sun, 27 Aug 2023) - Weekend
+
+
+(Mon, 28 Aug 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-862
