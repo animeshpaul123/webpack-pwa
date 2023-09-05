@@ -237,3 +237,49 @@
 (Mon, 28 Aug 2023)
 
  - https://embibe-delivery.atlassian.net/browse/MYJIO-862
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-857
+
+
+(Tue, 29 Aug 2023)
+
+  - Question types implementation
+  - https://embibe-delivery.atlassian.net/browse/BOB-231 [EPIC]
+
+
+(Wed, 30 Aug 2023)
+
+  - Question types implementation
+  - https://embibe-delivery.atlassian.net/browse/BOB-231 [EPIC]
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-789
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-847
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-842
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-849
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-848
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-860
+  - https://embibe-delivery.atlassian.net/browse/MYJIO-850?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+
+
+(Thurs, 31 Aug 2023) - Missed
+
+
+
+(Fri, 1 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-852
+
+
+(Sat, 2 Sept 2023) - (Sun, 3 Sept 2023) - Weekend
+
+
+(Mon, 4 Sept 2023)
+
+ - Master bot and Splash Screen
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-880
+
+
+
+(Tue, 5 Sept 2023)
+
+ - Master bot and Splash Screen
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-880
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-876?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
