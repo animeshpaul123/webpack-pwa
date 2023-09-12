@@ -283,3 +283,47 @@
  - Master bot and Splash Screen
  - https://embibe-delivery.atlassian.net/browse/MYJIO-880
  - https://embibe-delivery.atlassian.net/browse/MYJIO-876?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+
+
+(Wed, 6 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-884
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-883
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-885
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-893
+
+
+(Thurs, 7 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-893
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-894
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-901
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-902
+
+
+(Fri, 8 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-908
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-883
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-900
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-884
+
+
+(Sat, 9 Sept 2023) - (Sun, 10 Sept 2023) - Weekend
+
+
+(Tue, 11 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-900
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-908
+
+
+(Tue, 12 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-912
+ - https://embibe-delivery.atlassian.net/browse/BOB-51
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-897
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-893
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-896
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-889
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-911
