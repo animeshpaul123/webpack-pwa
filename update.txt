@@ -327,3 +327,21 @@
  - https://embibe-delivery.atlassian.net/browse/MYJIO-896
  - https://embibe-delivery.atlassian.net/browse/MYJIO-889
  - https://embibe-delivery.atlassian.net/browse/MYJIO-911
+
+(Wed, 13 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-916
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-925
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-923
+
+
+(Thurs, 14 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-920
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-914
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-848
+
+
+(Fri, 15 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-928
