@@ -42,3 +42,69 @@
     dispatch(updateChat({
          ...newChat, data: newData, type: "text" 
     }))
+
+
+
+
+learn bot:
+
+- if user lands on learn bot from master bot then
+  - initiate Hi
+- if user lands on learn bot with query string q={query}
+  - initiate bot with query
+- type a topic and watch video
+- while watching video user will get recommendations
+
+practice bot:
+
+- if user lands on learn bot from master bot then
+  - initiate Hi
+- if user lands on learn bot with query string q={query}
+  - initiate bot with query
+- type a topic and start attempting practice Questions with below question types
+ -  "SingleChoice",
+ -  "MultipleChoice",
+ -  "MatrixMatchSingleChoice",
+ -  "TrueFalse",
+ -  "Assertion",
+ -  "LinkedComprehension",
+ -  "Integer",
+ -  "SubjectiveAnswer",
+ -  "SubjectiveNumerical",
+
+ -  "FillInTheBlanks",
+ -  "MultipleFillInTheBlanks",
+
+ -  "SingleDropDown",
+ -  "MultipleDropDown",
+- on press back show summary or if practice questions for that topic ends show summary
+
+doubt bot:
+
+- if user lands on learn bot from master bot then
+  - initiate Hi
+- type a topic and it will give one of these:
+  - practice questions with below question types:
+    -  "SingleChoice",
+    -  "MultipleChoice",
+    -  "MatrixMatchSingleChoice",
+    -  "TrueFalse",
+    -  "Assertion",
+    -  "LinkedComprehension",
+    -  "Integer",
+    -  "SubjectiveAnswer",
+    -  "SubjectiveNumerical",
+
+    -  "FillInTheBlanks",
+    -  "MultipleFillInTheBlanks",
+
+    -  "SingleDropDown",
+    -  "MultipleDropDown",
+  - videos
+  - (practice questions or videos) might come in same response
+  - preview document related to that topic (independent response)
+
+
+new requirements: 
+
+- handle deeplink 

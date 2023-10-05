@@ -365,3 +365,71 @@
 (Wed, 20 Sept 2023)
 
  - https://embibe-delivery.atlassian.net/browse/MYJIO-932
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-937
+ 
+
+ (Thurs, 21 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-920
+
+
+(Sat, 23 Sept 2023) - (Sun, 24 Sept 2023) - Weekend
+
+
+(Mon, 25 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/LENS-1357
+
+
+(Mon, 25 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-932
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-833
+ - https://embibe-delivery.atlassian.net/browse/LENS-1357 Dev Done
+
+
+(Tue, 26 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/LENS-1357
+
+
+(Wed, 27 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-940
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-938
+
+
+(Thurs, 28 Sept 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-945
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-922
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-931
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-899?atlOrigin=eyJpIjoiYzgwYTQ0ZjEyNzQzNGJhN2JmNjEyZTM0NmRhZWZhNjIiLCJwIjoic2hlZXRzLWppcmEifQ
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-882
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-895
+ - https://embibe-delivery.atlassian.net/browse/BOB-81
+
+
+(Fri, 29 Sept 2023) - Sick Leave
+
+
+(Sat, 30 Sept 2023) - (Sun, 1 Oct 2023) - Weekend
+
+(Mon, 2 Oct 2023) - Gandhi jayanti - Holiday
+
+
+(Tue, 3 Oct 2023) 
+
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-931
+ - https://embibe-delivery.atlassian.net/browse/BOB-64
+ - https://embibe-delivery.atlassian.net/browse/BOB-297
+
+
+(Wed, 4 Oct 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/BOB-303
+
+
+(Thurs, 5 Oct 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/BOB-303
