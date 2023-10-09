@@ -441,3 +441,12 @@
 
  - https://embibe-delivery.atlassian.net/browse/BOB-303
  - https://embibe-delivery.atlassian.net/browse/BOB-301 - Error Handling
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-950
+
+
+(Sat, 7 Oct 2023) - (Sun, 8 Oct 2023) - Weekend
+
+(Mon, 9 Oct 2023)
+
+ - Requirement of Deeplinks to be embedded in Goal Specific Banners
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-919
