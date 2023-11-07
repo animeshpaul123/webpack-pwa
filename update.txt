@@ -389,7 +389,7 @@
 
 
 (Tue, 26 Sept 2023)
-
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-940
  - https://embibe-delivery.atlassian.net/browse/LENS-1357
 
 
@@ -450,3 +450,37 @@
 
  - Requirement of Deeplinks to be embedded in Goal Specific Banners
  - https://embibe-delivery.atlassian.net/browse/MYJIO-919
+
+
+(Tue, 10 Oct 2023)
+ - Requirement of Deeplinks to be embedded in Goal Specific Banners
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-919
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-950
+
+(Wed, 11 Oct 2023)
+ - Requirement of Deeplinks to be embedded in Goal Specific Banners
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-919
+
+(Thurs, 12 Oct 2023)
+ - Requirement of Deeplinks to be embedded in Goal Specific Banners
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-919
+
+(Fri, 13 Oct 2023)
+ - Requirement of Deeplinks to be embedded in Goal Specific Banners
+ - https://embibe-delivery.atlassian.net/browse/BOB-297
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-953
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-954
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-955
+
+
+(Sat, 14 Oct 2023) - (Sun, 15 Oct 2023) - Weekend
+
+(Mon, 16 Oct 2023)
+ - https://embibe-delivery.atlassian.net/browse/MYJIO-955
+
+
+Anual Leave from (Tue, 17 Oct 2023) - (Mon, 16 Nov 2023)
+
+ (Tue, 7 Nov 2023)
+  - https://embibe-delivery.atlassian.net/browse/JFRW-22544
+  - https://embibe-delivery.atlassian.net/browse/TTA-528
