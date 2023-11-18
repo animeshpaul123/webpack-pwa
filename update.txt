@@ -481,6 +481,21 @@
 
 Anual Leave from (Tue, 17 Oct 2023) - (Mon, 16 Nov 2023)
 
- (Tue, 7 Nov 2023)
+(Tue, 7 Nov 2023)
   - https://embibe-delivery.atlassian.net/browse/JFRW-22544
   - https://embibe-delivery.atlassian.net/browse/TTA-528
+
+(Wed, 8 Nov 2023)
+
+ - https://embibe-delivery.atlassian.net/browse/DEVOPS-15180
+ - https://embibe-delivery.atlassian.net/browse/TTA-523 passing "app_name": "teacher training"
+ - https://embibe-delivery.atlassian.net/browse/B2GM-2891?focusedCommentId=2469858 
+ - In Test Home Page API (/fiber_ms/home/test/v2) "app_name": "teacher training"
+ - coobo cdn_with_anchor replacement for EmbibeBookToc
+
+(Thurs, 9 Nov 2023) - Work from home
+ - In Test Home Page API (/fiber_ms/home/test/v2) "app_name": "teacher training"
+ - coobo cdn_with_anchor replacement for EmbibeBookToc
+
+ (Fri, 10 Nov 2023)
+ - https://embibe-delivery.atlassian.net/browse/BOB-320

@@ -9,7 +9,7 @@ less .env
 vim .env
 ls -la
 sudo nginx -s stop && sudo nginx
-
+ws_server
 eval "$(/opt/homebrew/bin/brew shellenv)"
 echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"'
 
@@ -17,3 +17,97 @@ echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"'
 
 for reconcile branch issue while running git pull
 => git pull -r
+
+setup webpack for react application:
+
+1) create project folder ex: webpact-react-app
+2) cd webpact-react-app
+3) npm init --yes
+4) npm i react react-dom
+5) npm i webpack webpack-cli webpack-dev-server -D (save as dev dependencies)
+6) npm install --save-dev html-webpack-plugin
+    - create webpack.config.js and add below config
+    const HtmlWebpackPlugin = require("html-webpack-plugin");
+    const path = require("path");
+    const DotEnv = require("dotenv-webpack");
+
+    module.exports = {
+        context: __dirname,
+        entry: "./src/index.js",
+        output: {
+            path: path.resolve(__dirname, "dist"),
+            filename: "main.js",
+        },
+        devServer: {
+            historyApiFallback: true,
+        },
+        module: {
+            rules: [
+            {
+                test: /\.(?:js|mjs|cjs)$/,
+                exclude: /node_modules/,
+                use: {
+                loader: "babel-loader",
+                options: {
+                    presets: [["@babel/preset-env", { targets: "defaults" }]],
+                },
+                },
+            },
+            {
+                test: /\.css$/i,
+                use: ["style-loader", "css-loader", "sass-loader"],
+            },
+            {
+                test: /\.(png|jpe?g|gif)$/i,
+                use: [
+                {
+                    loader: "file-loader",
+                },
+                ],
+            },
+            ],
+        },
+        plugins: [
+            new HtmlWebpackPlugin({
+                template: path.relative(__dirname, "public/index.html"),
+                filename: "index.html",
+            }),
+            new DotEnv({
+                path: "./.env",
+                systemvars: true,
+            }),
+        ],
+    };
+
+
+7) npm i @babel/core @babel/plugin-proposal-class-properties @babel/preset-env @babel/preset-react babel-loader css-loader sass-loader style-loader file-loader -D
+8) create .babelrc and add below config
+    {
+    "presets": [
+        [
+            "@babel/preset-env", {
+                "modules": false,
+                "targets": {
+                    "browsers": [
+                        "last 2 Chrome versions",
+                        "last 2 Firefox versions",
+                        "last 2 iOS versions",
+                        "last 1 Android version",
+                        
+                        "last 1 ChromeAndroid version",
+                        "ie 11"
+                    ]
+                }
+            }
+        ],
+        ["@babel/preset-react", {"runtime": "automatic"}]
+    ],
+    "plugins": ["@babel/plugin-proposal-class-properties"]
+}
+9)  "scripts": {
+    "webpack-dev-server": "webpack-dev-server",
+    "dev": "webpack serve --mode=development",
+    "prod": "NODE_ENV=production webpack --mode=production",
+    "serve": "npm run prod && serve -s dist"
+  },
+10)npm i serve -D
